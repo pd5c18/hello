@@ -1,3 +1,3 @@
-# hello
-just a test
-haha
+#!/bin/sh
+
+echo "test"
